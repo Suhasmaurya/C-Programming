@@ -1,7 +1,7 @@
 # C-Programming
 This is my First my Working Area
 
-## spacex
+## variables
 ## Data Types
 ## Pointers
 ## Data Structures
